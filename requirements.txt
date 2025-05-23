@@ -1,2 +1,2 @@
 pandas 
-wordclound
+wordcloud
